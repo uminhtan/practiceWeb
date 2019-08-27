@@ -1,0 +1,9 @@
+Ghi chú về cách học các thành phần của bootstrap
+-phương thức 1: 
+    +học lý thuyết cơ bản
+        .đang nói các thành phần của bootstrap
+        .sau đó mới sang phần bài tập
+
+-phương thức 2: 
+    + bỏ qua lý thuyết cơ bản, chỉ học grid với 1,2 khối đơn giản
+    + học qua phần bài tập làm các project thực tế
