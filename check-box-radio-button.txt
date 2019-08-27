@@ -1,0 +1,6 @@
+radio: chỉ được click vào một cái được cái nọ thì thôi cái kia
+thẻ bố : data-toggle="buttons"
+các phần tử con: 
+    + có thẻ label bọc ngoài
+        .class là tên kiểu nút VD: btn btn-success
+    + bên trong là check box hoặc là radio
