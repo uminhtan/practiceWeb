@@ -1,0 +1,9 @@
+button group
+    + class name: btn-group
+    + đặt vào các thẻ bố của button
+    + để nhóm các button với nhau
+    > không có khoảng trắng ở giữa nữa mà xít vào nhau luôn
+dropdown menu(button):dropdpwn-item click vào nút hiện ra các nút nhỏ hơn ở bên trong, các nút sẽ đều nhau không nút dài nút ngắn
+thêm một cái div có class dropdown-menu trong đấy có các lựa chọn
+ > dropdown-menu: ẩn nội dung bên trong
+chỉ định cái nút sẽ hiển thị ra các nút khác data-toggle="dropdown" thêm vào class là dropdown-toggle sẽ hiện thị một cái nút kí hiệu nhỏ
