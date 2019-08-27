@@ -1,0 +1,31 @@
+các thành phần của bootstrap
+
+	-hệ thống các thông báo (alert)
+		+ success
+		+ info 
+		+ danger
+		+ warning
+		
+
+		+ phím tắt: .alert.alert-success
+				  alert:danger
+
+
+		+ màu là màu mặc định muốn đổi lại thì đặt thêm một cái class khác
+
+
+	- thành phần breadcrumb: bootstrap là file css, lướt qua toàn bộ kiến thức để biết nó có cái gì, cái gì cần học thì học, bỏ qua thì bỏ qua
+	- breadcrumb (vụn bánh mì): để biết mình đang ở đâu trong một
+	- phím tắt: breadcrumb > tab
+
+-button 
+    + 7 kiểu nút btn btn-primary có kiểu đặc, kiểu viền là thêm outline btn-outline-primary
+    + có 2 cỡ của nút được định nghĩa: lg và sm, không viết gì thì là cỡ bình thường btn-lg
+    + dài hết btn-block, mặc định là dài theo chữ
+    + trạng thái active của nút: thêm class active nếu muốn lúc nào nó cũng được như là đang được di chuột lên
+    
+
+	
+
+
+
