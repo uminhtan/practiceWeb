@@ -1,0 +1,2 @@
+thành phần card-layout:
+-phím tắt: cards, không dùng cái nào thì xóa cái đấy đi
