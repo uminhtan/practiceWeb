@@ -1,0 +1,10 @@
+Quy trình sử dụng bootstrap làm web là:
+- đánh dấu website bằng các thành phần đã học
+    + button
+    + navbar
+    + alert
+    + col-sm-12
+    + ...
+- sử dụng Css để viết thêm vào
+    + đặt tên class
+    + viết Css
