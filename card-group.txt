@@ -1,0 +1,3 @@
+thành phần card deck và card group
+-card-deck: cards:groups ra luôn các khối bằng nhau, giữ cho các khối hiển thị chiều cao là bằng nhau kể cả nội dung dài ngắn khác nhau
+-card-group: cards:groups tính năng là nhóm các card với nhau loại bỏ khoảng trắng, tự động chia cột sao cho các card có độ rộng bằng nhau, nhiều quá sẽ tự động xuống dòng
