@@ -1,0 +1,4 @@
+sử dụng để ẩn nội dung đi khi click vào nút thì mới hiện ra
+collapse > tab
+collapse:accordion
+nếu sử dụng 2 khối collapse thì phải thay đổi lại id 
