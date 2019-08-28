@@ -1,0 +1,3 @@
+carousel là một hiệu ứng ảnh ở trên banner 
+carousel > tab
+nếu sử dụng 2 slide trên cùng một trang web thì chú ý phải đổi tên id có 6 chỗ 
