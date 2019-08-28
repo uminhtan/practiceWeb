@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="web01.css">
+    <title>web01</title>
+</head>
+<body>
+    
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark" >
+        <div class="container">
+            <a class="navbar-brand" href="#"><img src="logo.png" alt=""></a>
+            <div class="row"></div>
+                <div class="col-sm-12">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link " href="#">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Home</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>             
+    </nav> <!--end of menu bar on the top  -->
+
+<!--c2: đặt tên class dùng css bình thường 
+    c3: sử dụng class của bootstrap 
+        mt-1: margin-top 1 x 1 rem = 1 x 16 px = 16px 
+        đọc thêm phần spacing của b4  
+-->
+
+    <div class="container big-news mt-3">
+
+        <div class="row">
+            <div class="col-sm-8">
+                <a href=""><img src="2.png" alt="" class="img-fluid"></a>
+                <!--class = "img-fluid": để cho ảnh không bị tràn quá khung cha hoặc để width=100% -->
+            </div>
+            <div class="col-sm-4">
+                <h3>Business Name or Tagline</h3>
+                <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it makes a great use of the standard Bootstrap core components. Feel free to use this template for any project you want!</p>
+                <a href="" class="btn btn-primary btn-lg">Call to action</a>
+
+            </div>
+        </div>
+    </div> <!-- end of the big-news -->
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <hr>
+                <div class="alert alert-warning text-center">
+                    This is a template that is great for small businesses. It doesn't have too much fancy
+
+                </div>
+                <!--class = "text-xs-right" tất cả màn hình đều căn phải
+                    class = "text-sm-center" sm,md,lg,xl là căn giữa, còn xs là mặc định căn trái
+                    class = "text-xl-center" xl căn giữa, còn lại ở dưới là căn trái mặc định 
+                -->
+            </div>
+        </div>
+    </div> <!-- end of inform-->
+
+
+    <div class="three-small-news">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="card-body">
+                        <h4 class="card-title">Title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="" class="btn btn-primary">Button</a>
+                    </div>
+                    
+                </div>
+                <div class="col-sm-4">
+                    <div class="card-body">
+                        <h4 class="card-title">Title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="" class="btn btn-primary">Button</a>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card-body">
+                        <h4 class="card-title">Title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="" class="btn btn-primary">Button</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!--end of small-news-->
+
+    <div class="footer mt-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <small>Copyright © Your Website 2014</small>
+                </div>
+            </div>
+        </div>
+    </div> <!-- end of footer-->
+
+
+
+</body>
+</html>

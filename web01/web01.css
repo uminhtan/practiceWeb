@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.navbar-nav {
+    font-size: 15px;
+    padding: 10px 15px;
+}
+/* .big-news {
+    margin-top: 12px;
+} */
