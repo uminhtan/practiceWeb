@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.navbar-expand-sm .navbar-nav {
+    
+  
+    
+    font-family: tahoma;
+}
+li.nav-item:hover {
+    color: whitesmoke;
+    background-color: black;
+}
+
+.navbar {
+    margin-top: 50px;
+}
+
+.but-d {
+    color: white;
+    border: 2px solid white;
+    border-radius: 0;
+}
+@media (max-width: 576px) 
+{
+    * {}
+    .navbar.navbar-expand-sm.navbar-dark.bg-transparent.fixed-top {
+        background-color: #232a31!important; 
+        height: auto;
+        
+    }
+    .navbar-toggler.d-lg-none.float-sm-right {
+        float: right;
+        color: white;
+        border-radius: 0px;
+    }
+    .navbar {
+        margin-top: 0px;
+    }
+    .carousel-caption.text-sm-left  h1.display-3{
+        
+        font-size: 18px!important;
+    }
+}
+.noidung h2.display-4 {
+    font-size: 29px;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.little {
+    display: block;
+    margin-bottom: 35px;
+}
+.no-more-space [class *= 'col-'] {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.no-more-space .media {
+    margin-right: 20px;
+    background-color: white;
+    border-bottom: 1px solid gray;
+    margin-bottom: 100px;
+}
+.noidung {
+    background-color: rgb(177, 172, 172);
+}
+.img-part img.img-fluid {
+    padding-right: 10px;
+}
+.text-part h4 {
+    padding-top: 10px;
+}
+.thongtinweb {
+    font-size: 12px;
+}
